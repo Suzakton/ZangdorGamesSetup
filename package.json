@@ -5,9 +5,8 @@
     "description": "Zangdor Games classes used to setup new projects.",
     "type": "tool",
     "repository": {
-      "url": "TODO",
+      "url": "https://github.com/Suzakton/ZangdorGamesSetup.git",
       "type": "git",
-      "revision": "TODO"
     }
   }
   
