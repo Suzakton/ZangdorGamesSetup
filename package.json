@@ -1,0 +1,13 @@
+{
+    "name": "com.zangdorgames.setup",
+    "displayName": "Zangdor Games Setup",
+    "version": "1.0.0",
+    "description": "Zangdor Games classes used to setup new projects.",
+    "type": "tool",
+    "repository": {
+      "url": "TODO",
+      "type": "git",
+      "revision": "TODO"
+    }
+  }
+  
