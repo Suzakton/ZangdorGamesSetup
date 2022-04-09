@@ -11,6 +11,8 @@ namespace ZangdorGames.Setup
         [MenuItem("ZangdorGames/Setup New Project", false, -1000)]
         public static void SetupProject()
         {
+            //Clear project from already existing folders and files
+            CleanAllProject();
             // Create base project dirs
             CreateDirectories("_Project", "2DAssets", "3DAssets", "Prefabs", "Scenes", "Scripts", "Scriptables");
             // Change base namespace
