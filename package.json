@@ -3,10 +3,15 @@
     "displayName": "Zangdor Games Setup",
     "version": "1.0.0",
     "description": "Zangdor Games classes used to setup new projects.",
-    "type": "tool",
+    "keywords": [
+      "tools",
+      "setup"
+    ],
+    "author": "Suzak",
+    "unity": "2020.3",
     "repository": {
       "url": "https://github.com/Suzakton/ZangdorGamesSetup.git",
       "type": "git"
     }
-  }
-  
+    "dependencies": {}
+}
